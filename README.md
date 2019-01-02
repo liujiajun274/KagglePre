@@ -1,9 +1,9 @@
 # KagglePre
 
-This repository is used to record my codes for two basic kaggle data sets.
+Codes/Models for Handwrite_digit recongition / Titanic survival prediction
 
   ## Plan
-- Digital recongition
+- Handwrite_digit recongition
   - DNN
   - LSTM
   - SVM
